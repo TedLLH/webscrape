@@ -1,5 +1,8 @@
 # webscrape
 All the scrapers for you.
 
-## google_image_downloader.py
+## googleImageDownloader.py
 scraper for downloading images from Google images
+
+## instagramScraper.py
+scraper for downloading images from Instagram
